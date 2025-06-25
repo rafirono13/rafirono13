@@ -6,38 +6,48 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
 I’m a passionate web developer blending creativity, logic, and AI into one spicy brain.  
-I'm currently building amazing things with React and exploring AI art & LLMs.
+Currently crafting smooth frontends with React and exploring AI art & LLMs.
 
-### 🌱 Currently Working On
-- 🚀 Finishing MERN course (final assignment)
-- 🧠 Learning backend data fetching with Node.js
-- 🎨 Prompt engineering with AI image generation
+---
+
+## 🚀 Currently Working On
+- 🎓 Final assignment in MERN course
+- 🔗 Backend data handling using Node.js + Express
+- 🧠 Prompt engineering for AI image generation
 
 ---
 
 ## 🛠️ Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,firebase" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind,js,html,css" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhannahbubrafi@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FMRaafi)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/md.rafi669)
+
+---
+
+## 🧪 Featured Projects (Live Demos)
+
+- 🔥 [Ridezy - Car Rental Web App](https://ridezy-f8c9c.web.app/)
+- 🧵 [HobbyHub - Hobby-based Marketplace](https://hobby-hub-1549a.web.app/)
+- 💸 [React Bill Splitter](https://react-bill-98a27.web.app/)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="165">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=false" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafirono13&show_icons=true&theme=radical" height="165">
+  <img src="https://streak-stats.demolab.com?user=rafirono13&theme=radical&hide_border=false" height="165"/>
 </p>
 
----
