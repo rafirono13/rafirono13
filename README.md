@@ -1,4 +1,4 @@
-![Banner](![github-header-image](https://github.com/user-attachments/assets/642f8717-455e-40ce-abe1-46e4635e79e0))
+![Banner](https://github.com/user-attachments/assets/642f8717-455e-40ce-abe1-46e4635e79e0)
 
 # 👋 Hi, I'm Rafi
 
