@@ -9,7 +9,7 @@
 ## 🧠 About Me
 
 I’m a passionate web developer blending creativity, logic, and AI into one spicy brain.  
-Currently crafting smooth frontends with React and exploring AI art & LLMs.
+Currently crafting smooth frontends with React and exploring AI automations & LLMs.
 
 ---
 
