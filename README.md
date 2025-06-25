@@ -48,6 +48,7 @@ Currently crafting smooth frontends with React and exploring AI art & LLMs.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafirono13&show_icons=true&theme=radical" height="165">
-  <img src="https://streak-stats.demolab.com?user=rafirono13&theme=radical&hide_border=false" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafirono13&theme=radical" height="165"/>
 </p>
+
 
