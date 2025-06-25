@@ -47,9 +47,9 @@ Currently crafting smooth frontends with React and exploring AI automations & LL
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafirono13&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=rafirono13&theme=dracula&hide_border=false" alt="GitHub Streak" />
+<div align="flex center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafirono13&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="160em" src="https://nirzak-streak-stats.vercel.app/?user=rafirono13&theme=dracula&hide_border=false" />
 </div>
 
 
