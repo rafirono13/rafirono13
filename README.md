@@ -45,8 +45,12 @@ Currently crafting smooth frontends with React and exploring AI automations & LL
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rafi&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rafi&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafi&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rafirono13&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="160em" src="https://nirzak-streak-stats.vercel.app/?user=rafirono13&theme=dracula&hide_border=false" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafirono13&theme=dracula&hide_border=false&layout=compact" />
+</div>
+
 
