@@ -14,9 +14,10 @@ Currently crafting smooth frontends with React and exploring AI art & LLMs.
 ---
 
 ## 🚀 Currently Working On
-- 🎓 Final assignment in MERN course
-- 🔗 Backend data handling using Node.js + Express
-- 🧠 Prompt engineering for AI image generation
+- 🎓 Final assignment in MERN course  
+- 🔗 Backend data handling using Node.js + Express  
+- 🛠️ Making CLI tools using Node scripting  
+- 🤖 Prompt engineering & LLM automation workflows  
 
 ---
 
@@ -38,17 +39,16 @@ Currently crafting smooth frontends with React and exploring AI art & LLMs.
 
 ## 🧪 Featured Projects (Live Demos)
 
-- 🔥 [Ridezy - Car Rental Web App](https://ridezy-f8c9c.web.app/)
-- 🧵 [HobbyHub - Hobby-based Marketplace](https://hobby-hub-1549a.web.app/)
-- 💸 [React Bill Splitter](https://react-bill-98a27.web.app/)
+- 🔥 [Ridezy - Car Rental Web App](https://ridezy-f8c9c.web.app/)  
+- 🧵 [HobbyHub - Hobby-based Marketplace](https://hobby-hub-1549a.web.app/)  
+- 💸 [React Bill Splitter](https://react-bill-98a27.web.app/)  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafirono13&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafirono13&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafirono13&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=rafirono13&theme=radical" height="165" />
 </p>
-
 
